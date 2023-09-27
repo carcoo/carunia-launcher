@@ -17,7 +17,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "assets"
 		},
 	],
-	"clientFolder": "Tibia",
+	"clientFolder": "Carunia",
 	"newClientUrl" : "https://github.com/carcoo/carunia-launcher/releases/download/client/Carunia.zip",
 	"clientExecutable": "Carunia.exe"
 }
