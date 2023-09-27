@@ -16,14 +16,8 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		{
 			"name": "assets"
 		},
-		{
-			"name": "storeimages"
-		},
-		{
-			"name": "bin"
-		}
 	],
-	"clientFolder": "Carunia",
-	"newClientUrl" : "https://drive.google.com/uc?export=download&id=1yJOoqGcVDM708QENSgEURtSz2AIMAxF3",
-	"clientExecutable": "carunia.exe"
+	"clientFolder": "Tibia",
+	"newClientUrl" : "https://github.com/carcoo/carunia-launcher/releases/download/client/Carunia.zip",
+	"clientExecutable": "Carunia.exe"
 }
